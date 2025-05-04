@@ -10,7 +10,7 @@ from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain.chains import create_retrieval_chain
 import openai
 
-#load
+#load_env
 load_dotenv()
 
 # Streamlit UI setup
